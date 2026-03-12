@@ -1,3 +1,5 @@
+> **DEPRECATED**: This example is no longer maintained and is kept only for reference purposes.
+
 # Clever Cloud's Materia KV raw TCP Ruby demo
 
 This project shows how to connect to Materia serverless KV store from [Clever Cloud](https://www.clever-cloud.com) and send commands through a TCP interface. It authenticates you with a [biscuit-based](https://www.biscuitsec.org/) token, sends commands and prints responses:
